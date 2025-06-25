@@ -1,2 +1,2 @@
 # Bank_Management_System
-This is a basic Project of bank management system to get easy and better grip on python this project taught how to operate file and store values on this basic Project
+A console-based Python application that simulates core banking operations such as creating an account, checking balance, depositing and withdrawing money. This project is ideal for beginners looking to explore file handling, basic data storage, and logic-building in Python
